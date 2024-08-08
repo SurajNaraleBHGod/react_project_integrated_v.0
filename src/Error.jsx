@@ -1,7 +1,7 @@
 export default function Error(){
     return(
         <div>
-            <h1>There Is Error With Your Navigation .... </h1>
+            <h1>This Page is not avail.... </h1>
         </div>
     )
 }
